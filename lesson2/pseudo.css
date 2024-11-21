@@ -1,0 +1,11 @@
+a:hover{
+    font-size:35px;
+}
+li:nth-child(2)
+{
+    background-color:blueviolet;
+}
+div:not(.c1)
+{
+    border: 9px solid orange;
+}

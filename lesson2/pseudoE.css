@@ -1,0 +1,10 @@
+.a1::before{
+    content:"🗿";
+}
+.a2::after{
+    content:"😎"
+}
+#ok::first-letter{
+    font-size: 200px;
+    color: blue;
+}

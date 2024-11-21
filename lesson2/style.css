@@ -1,0 +1,12 @@
+input[type="text"]
+{
+    background-color:crimson;
+
+}
+ol>li
+{
+    color: blue;
+}
+h3+p {
+    border: 20px solid red;
+}
